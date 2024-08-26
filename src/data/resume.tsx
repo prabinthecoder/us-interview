@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon, FileBadge, Send } from "lucide-react";
 export const DATA = {
   name: "US Interview Questions 2025",
   initials: "US",
-  url: "https://us-interview-questions.netlify.app",
+  url: "https://us-interview.netlify.app",
   avatarUrl: "/usa.png",
   description: "Use the sample questions provided to prepare and rehearse your answers.",
   navbar: [
